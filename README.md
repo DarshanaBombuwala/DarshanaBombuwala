@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OOP with Java**
 
-- 💬 Ask me about **Web Development|Mobile Application Development|OOC**
+- 💬 Ask me about **Web Development|Mobile Application Development**
 
 - 📫 How to reach me **navodhya123@gmail.com**
 
